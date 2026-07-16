@@ -16,7 +16,10 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - Domain status: registered successfully on 2026-07-16; expires 2027-07-16
 - Registration settings: one year, high privacy with consent, `autoRenew: false`
 - Master registry: https://docs.google.com/spreadsheets/d/1q9LHXEOZi0Hs5n8WmPjZeUKZPuPVFyuX/edit
-- Drive asset folder: pending
+- GitHub repository: https://github.com/DaInfernalCoder/gulf-prism-detailing
+- Vercel production alias: https://gulf-prism-detailing.vercel.app
+- Vercel deployment: https://vercel.com/dainfernalcoders-projects/gulf-prism-detailing/3wFVMyzN7MT7VsJdpDwoCC2XbiXx
+- Drive asset folder: https://drive.google.com/drive/folders/1XJYkLACK64ycGn65m66XsI35YOu0lcgP
 
 ## Decisions and truth constraints
 
@@ -55,20 +58,22 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - [x] Source and document licensed imagery.
 - [x] Build the static site.
 - [x] Run preflight and browser QA at desktop and phone widths.
-- [ ] Initialize git, commit `main`, create GitHub repository, and push.
-- [ ] Deploy through Vercel and connect GitHub.
-- [ ] Attach apex and `www`, configure DNS, and verify HTTPS.
-- [ ] Build and validate the final GMB asset pack.
-- [ ] Mirror the asset pack to Drive and verify the registry row.
+- [x] Initialize git, commit `main`, create GitHub repository, and push.
+- [x] Deploy through Vercel and connect GitHub.
+- [x] Attach apex and `www` to Vercel and save the Vercel nameservers at the registrar.
+- [ ] Verify apex, `www`, and HTTPS after DNS propagation.
+- [x] Build and validate the final GMB asset pack.
+- [x] Mirror the asset pack to Drive and verify its structure and counts.
+- [x] Update and verify the master registry row.
 
 ## Current state
 
-The brand, phone, domain, registration settings, and visual direction are locked. `gulfprism.shop` is registered successfully through July 16, 2027 with high privacy active and auto-renew off. The dependency-free site is built with licensed local photography. Static preflight passes. Browser QA passes at 1440×1000 and 390×844 with one H1, no missing images, no JavaScript or console errors, no horizontal overflow, a readable opaque header, a working mobile menu, and paired call and online scheduling actions. The public prose audit is clean except for the required word `call`.
+The brand, phone, domain, registration settings, and visual direction are locked. `gulfprism.shop` is registered successfully through July 16, 2027 with high privacy active and auto-renew off. The dependency-free site is built with licensed local photography. Static preflight passes. Browser QA passes at 1440×1000 and 390×844 with one H1, no missing images, no JavaScript or console errors, no horizontal overflow, a readable opaque header, a working mobile menu, and paired call and online scheduling actions. The public prose audit is clean except for the required word `call`. The dedicated GitHub repository is connected to Vercel and the production deployment is ready. The apex and `www` domains are attached in Vercel, and the registrar now uses Vercel nameservers. The complete GMB pack contains one logo, four cover photos, four business photos, the approved description, and source notes; the same validated structure is present in Drive.
 
 ## Blocker
 
-None.
+Public DNS propagation is pending. Per the owner, do not wait or poll during this run.
 
 ## Exact next action
 
-Sync the validated build to the permanent project, initialize `main`, create the dedicated GitHub repository, and connect the production Vercel project.
+After DNS propagation, verify `https://gulfprism.shop/` and `https://www.gulfprism.shop/` resolve to the intended Vercel production deployment over HTTPS. Then create or verify the Google Business Profile when the owner account and business hours are available.
