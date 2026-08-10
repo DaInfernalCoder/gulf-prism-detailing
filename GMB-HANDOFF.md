@@ -10,6 +10,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - Short name: Gulf Prism
 - Business type: mobile auto detailing
 - Primary market: Houston, Texas
+- Street address: 3418 Georgetown St, Houston, TX 77005
 - Phone: +1 346-645-6597
 - Booking link: https://cal.com/sumitdatta/auto-detail-service
 - Domain: `gulfprism.shop`
