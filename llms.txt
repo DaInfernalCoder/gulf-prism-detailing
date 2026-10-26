@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Houston, Texas.
 
 ## Primary pages
-- [Homepage](https://gulfprism.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://gulfprism.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://gulfprism.shop/#local-detailing): How mobile detailing works in Houston.
+- [Homepage](https://houstoncardetailingexotic.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://houstoncardetailingexotic.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://houstoncardetailingexotic.shop/#local-detailing): How mobile detailing works in Houston.
 
 ## Verified business facts
 - Business name: Gulf Prism Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://gulfprism.shop/services/)
-- [Interior Car Detailing](https://gulfprism.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://gulfprism.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://gulfprism.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://gulfprism.shop/services/headlight-restoration/)
-- [About](https://gulfprism.shop/about/)
-- [Contact](https://gulfprism.shop/contact/)
+- [Services](https://houstoncardetailingexotic.shop/services/)
+- [Interior Car Detailing](https://houstoncardetailingexotic.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://houstoncardetailingexotic.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://houstoncardetailingexotic.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://houstoncardetailingexotic.shop/services/headlight-restoration/)
+- [About](https://houstoncardetailingexotic.shop/about/)
+- [Contact](https://houstoncardetailingexotic.shop/contact/)
 <!-- SEO-NEXT:END -->

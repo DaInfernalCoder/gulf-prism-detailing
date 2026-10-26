@@ -13,7 +13,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 - Street address: 3418 Georgetown St, Houston, TX 77005
 - Phone: +1 346-645-6597
 - Booking link: https://cal.com/sumitdatta/auto-detail-service
-- Domain: `gulfprism.shop`
+- Domain: `houstoncardetailingexotic.shop`
 - Domain status: registered successfully on 2026-07-16; expires 2027-07-16
 - Registration settings: one year, high privacy with consent, `autoRenew: false`
 - Master registry: https://docs.google.com/spreadsheets/d/1q9LHXEOZi0Hs5n8WmPjZeUKZPuPVFyuX/edit
@@ -49,7 +49,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 
 - [x] Confirm Houston, Texas and phone number.
 - [x] Screen the Gulf Prism name against local and same-category search results.
-- [x] Confirm `gulfprism.shop` is available, standard-price, and non-premium.
+- [x] Confirm `houstoncardetailingexotic.shop` is available, standard-price, and non-premium.
 - [x] Obtain explicit approval for the exact domain.
 - [x] Register with high privacy and auto-renew off.
 - [x] Verify registration, expiration, privacy, and auto-renew state.
@@ -69,7 +69,7 @@ Build and launch a polished mobile auto detailing website and Google Business Pr
 
 ## Current state
 
-The brand, phone, domain, registration settings, and visual direction are locked. `gulfprism.shop` is registered successfully through July 16, 2027 with high privacy active and auto-renew off. The dependency-free site is built with licensed local photography. Static preflight passes. Browser QA passes at 1440×1000 and 390×844 with one H1, no missing images, no JavaScript or console errors, no horizontal overflow, a readable opaque header, a working mobile menu, and paired call and online scheduling actions. The public prose audit is clean except for the required word `call`. The dedicated GitHub repository is connected to Vercel and the production deployment is ready. The apex and `www` domains are attached in Vercel, and the registrar now uses Vercel nameservers. The complete GMB pack contains one logo, four cover photos, four business photos, the approved description, and source notes; the same validated structure is present in Drive.
+The brand, phone, domain, registration settings, and visual direction are locked. `houstoncardetailingexotic.shop` is registered successfully through July 16, 2027 with high privacy active and auto-renew off. The dependency-free site is built with licensed local photography. Static preflight passes. Browser QA passes at 1440×1000 and 390×844 with one H1, no missing images, no JavaScript or console errors, no horizontal overflow, a readable opaque header, a working mobile menu, and paired call and online scheduling actions. The public prose audit is clean except for the required word `call`. The dedicated GitHub repository is connected to Vercel and the production deployment is ready. The apex and `www` domains are attached in Vercel, and the registrar now uses Vercel nameservers. The complete GMB pack contains one logo, four cover photos, four business photos, the approved description, and source notes; the same validated structure is present in Drive.
 
 ## Blocker
 
@@ -77,4 +77,4 @@ Public DNS propagation is pending. Per the owner, do not wait or poll during thi
 
 ## Exact next action
 
-After DNS propagation, verify `https://gulfprism.shop/` and `https://www.gulfprism.shop/` resolve to the intended Vercel production deployment over HTTPS. Then create or verify the Google Business Profile when the owner account and business hours are available.
+After DNS propagation, verify `https://houstoncardetailingexotic.shop/` and `https://www.houstoncardetailingexotic.shop/` resolve to the intended Vercel production deployment over HTTPS. Then create or verify the Google Business Profile when the owner account and business hours are available.
