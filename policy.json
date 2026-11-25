@@ -1,0 +1,62 @@
+{
+  "config": {
+    "cleanUrls": true,
+    "trailingSlash": false
+  },
+  "domains": [
+    {
+      "name": "www.houstoncardetailingexotic.shop",
+      "apexName": "houstoncardetailingexotic.shop",
+      "redirect": "houstoncardetailingexotic.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    },
+    {
+      "name": "houstoncardetailingexotic.shop",
+      "apexName": "houstoncardetailingexotic.shop",
+      "redirect": null,
+      "redirectStatusCode": null,
+      "verified": true
+    },
+    {
+      "name": "www.gulfprism.shop",
+      "apexName": "gulfprism.shop",
+      "redirect": "houstoncardetailingexotic.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    },
+    {
+      "name": "gulfprism.shop",
+      "apexName": "gulfprism.shop",
+      "redirect": "houstoncardetailingexotic.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    }
+  ],
+  "files": [
+    "/about/index.html",
+    "/assets/detail-chrome.jpg",
+    "/assets/favicon.svg",
+    "/assets/hero-reflection.jpg",
+    "/assets/logo.svg",
+    "/assets/service-foam.jpg",
+    "/assets/service-interior.jpg",
+    "/assets/service-polish.jpg",
+    "/assets/service-wheel.jpg",
+    "/contact/index.html",
+    "/index.html",
+    "/llms.txt",
+    "/portfolio-components.css",
+    "/portfolio-components.js",
+    "/robots.txt",
+    "/script.js",
+    "/seo-pages.css",
+    "/services/exterior-car-detailing/index.html",
+    "/services/headlight-restoration/index.html",
+    "/services/index.html",
+    "/services/interior-car-detailing/index.html",
+    "/services/mobile-car-wash/index.html",
+    "/sitemap.xml",
+    "/styles.css"
+  ]
+}
